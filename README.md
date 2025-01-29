@@ -8,11 +8,10 @@
 </div>
 
 ## 👨‍💻 About Me
-I am currently pursuing Computer Science at Carnegie Mellon University's School of Computer Science. During my high school years, I had the privilege of participating in prestigious mathematical competitions including the International Mathematical Olympiad (IMO) and the Euclid Mathematics Competition, which helped shape my analytical thinking and problem-solving skills.
+I find myself enjoying math and whatever comes with it. I am currently pursuing Computer Science at Carnegie Mellon University's School of Computer Science. During my high school years, I had the privilege of participating in prestigious mathematical competitions including  the Euclid Contest by CEMC, Pan African Mathematics Olympiads (PAMO 2022), and International Mathematical Olympiad (IMO 2022), to name a few.
 
 ## 🔬 Interests
-- Quantitative Trading
-- Research in Computer Science
+- Quantitative Trading & Research
 - Algorithmic Problem Solving
 - Mathematical Computing
 - Software Development
@@ -27,10 +26,19 @@ I am currently pursuing Computer Science at Carnegie Mellon University's School 
 </p>
 
 ## 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/belamigisagewarakoze/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/b___gw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 - GitHub Issues & Discussions
 - [Carnegie Mellon University](https://www.cmu.edu/)
 
 ---
 <div align="center">
-  <i>Last updated: 2025-01-29 16:09:39 UTC</i>
+  <i>Last updated: 2025-01-29 16:14:40 UTC</i>
 </div>
