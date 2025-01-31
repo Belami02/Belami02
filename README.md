@@ -1,34 +1,23 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Bel+Ami+Gisage+Warakoze;Software+Engineer;Math+Enthusiast;CMU+Student)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Bel+Ami+Gisage+Warakoze;Quantitative+Researcher;Software+Engineer;Math+Enthusiast;CMU+Student)
 
-  <img src="https://raw.githubusercontent.com/Belami02/Belami02/main/assets/header.png" alt="Hero banner" width="100%"/>
-
-  [![CMU SCS](https://custom-icon.badges.vercel.app/badge/-Carnegie%20Mellon%20SCS-C41E3A?style=for-the-badge&logoWidth=25&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3Lnczb3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3TDEyIDJ6Ii8+PC9zdmc+)](https://www.cs.cmu.edu/)
-  
   <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belami02&theme=tokyonight&hide_border=true&background=1A1B27&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999" alt="GitHub Streak"/>
-
 </div>
 
 
 ## 💫 About Me  
 
-> *"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding."*  
+> *"Math is not about numbers, equations, computations, or algorithms: it is about understanding."*  
 > — William Paul Thurston  
 
 🎓 **Computer Science** student at **Carnegie Mellon University** (School of Computer Science)  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carnegie_Mellon_wordmark.svg/1024px-Carnegie_Mellon_wordmark.svg.png" width="100"/>  
 
 🏆 **International Mathematical Olympiad (IMO 2022) Participant**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/International_Mathematical_Olympiad_logo.svg/1024px-International_Mathematical_Olympiad_logo.svg.png" width="50"/>  
 
-🥇 **Pan African Mathematics Olympiad (PAMO 2022) Medalist**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/African_Union_flag.svg/1024px-African_Union_flag.svg.png" width="50"/>  
+🥇 **Pan African Mathematics Olympiad (PAMO 2022)**  Honorary Awardee
 
-🎯 **CEMC Euclid Contest Distinguished Participant**  
-  <img src="https://cemclogo.math.uwaterloo.ca/img/CEMC-Logo-ENG.png" width="100"/>  
+🎯 **CEMC Euclid Contest**  Distinguished Participant
 
 
 
