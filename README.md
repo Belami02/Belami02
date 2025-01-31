@@ -5,6 +5,21 @@
   <br>
 </div>
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belami02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belami02&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=58A6FF"/>
+</p>
+
+
+## 🎯 Current Focus
+
+🔹 **Quantitative Trading & Research**  
+🔹 **Algorithmic Problem Solving**  
+🔹 **Machine Learning Applications**  
+🔹 **Full-Stack Development**  
+
 
 ## 💫 About Me  
 
@@ -20,9 +35,7 @@
 🎯 **CEMC Euclid Contest**  Distinguished Participant
 
 
-
 ## 🚀 Technical Skills
-
 
 ### 🖥️ Programming Languages  
 <p align="left">
@@ -65,20 +78,6 @@
   <img src="https://img.shields.io/badge/Research-8E44AD?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belami02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belami02&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=58A6FF"/>
-</p>
-
-
-## 🎯 Current Focus
-
-🔹 **Quantitative Trading & Research**  
-🔹 **Algorithmic Problem Solving**  
-🔹 **Machine Learning Applications**  
-🔹 **Full-Stack Development**  
 
 ## 🤝 Let's Connect  
 
