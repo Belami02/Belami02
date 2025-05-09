@@ -1,34 +1,34 @@
-# Bel Ami Gisage Warakoze
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;Bel+Ami+Gisage+Warakoze)
 
-Welcome to my GitHub profile! I am a **Computer Science** student at **Carnegie Mellon University**, passionate about **Quantitative Trading**, **Machine Learning**, and **Full-Stack Development**.
+  <h3>🌟 Passionate about Technology, Mathematics, and Innovation 🌟</h3>
+  
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-CMU-58A6FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="CMU Badge"/>
+  <img src="https://img.shields.io/badge/Quantitative%20Trading-Enthusiast-58A6FF?style=for-the-badge&logo=python&logoColor=white" alt="Quantitative Trading Enthusiast Badge"/>
 
----
-
-## 🌐 Website
-Visit my portfolio: [**belamigw.com**](https://belamigw.com)
-
----
-
-## About Me
-
-- **International Mathematical Olympiad (IMO 2022) Participant**
-- **Pan African Mathematics Olympiad (PAMO 2022) Honorary Awardee**
-- **CEMC Euclid Contest** Distinguished Participant
+  <br>
+  <p>Exploring the intersection of <strong>Machine Learning</strong>, <strong>Full-Stack Development</strong>, and <strong>Mathematical Research</strong>.</p>
+</div>
 
 ---
 
-## Skills
-
-- **Programming Languages:** Python, C, C++, Java, JavaScript, R  
-- **Frameworks & Tools:** Flask, FastAPI, React Native, Docker, Git, Linux
-
----
-
-## Connect With Me
-
-- LinkedIn: [linkedin.com/in/belamigisagewarakoze](https://www.linkedin.com/in/belamigisagewarakoze)
-- GitHub: [github.com/Belami02](https://github.com/Belami02)
+<div align="center">
+  <h2>🌐 Visit My Website</h2>
+  <a href="https://belamigw.com" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out-belamigw.com-58A6FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
 
 ---
 
-Thank you for visiting my profile!
+<div align="center">
+  <h3>"Math is not about numbers, equations, computations, or algorithms: it is about understanding."</h3>
+  <p>— William Paul Thurston</p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Thank you for visiting my profile! 🚀</sub>
+</div>
