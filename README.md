@@ -1,6 +1,5 @@
 # About Me
-Hi, I am Bel Ami.
-- Computer Science student at CMU
-- Interested in mathematics, technology, and innovation
-- Exploring machine learning and full-stack development
-Thanks for visiting my profile!
+ Welcome! I'm Bel Ami, a Computer Science student at CMU.
+- Enthusiastic about mathematics, technology, and innovation.
+- Currently exploring machine learning, quantitative trading and full-stack development.
+Thanks for stopping by!
