@@ -12,6 +12,6 @@ I have:
 - Built robust backend systems using Python, C and Java.
   
 Open to collaborations. Feel free to reach out:  
-📧 bgisagew@cmu.edu | [LinkedIn](https://www.linkedin.com/in/belamigw/)
+📧 bgisagew@cmu.edu | [LinkedIn](https://www.linkedin.com/in/belamigw/) | [Website](https://belamigw.com)
 
 Thanks for stopping by!
