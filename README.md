@@ -2,8 +2,6 @@
 
 I am Bel Ami (```/bellamy/```), a third-year Computer Science student at Carnegie Mellon. 
 
-I apply a rigorous approach to both academic research and industry engineering.
-
 I am:
 - Focused on math, computer science, and finance.
 - Exploring machine learning, quantitative trading, and full-stack development.
