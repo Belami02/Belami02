@@ -1,6 +1,19 @@
-# About Me
- Welcome to my page! I am Bel Ami ```/bellamy/```, a Computer Science student at CMU.
-- Enthusiastic about mathematics, technology, and innovation.
-- Currently exploring machine learning, artificial intelligence, quantitative trading and full-stack development.
+## Hello 👋
 
-Thanks for stopping by! And, do not hesitate to reach out out to me with opportunities that lie within the scope of my interests.
+I am Bel Ami (```/bellamy/```), a third-year Computer Science student at Carnegie Mellon. 
+
+I apply a rigorous approach to both academic research and industry engineering.
+
+I am:
+- Focused on math, computer science, and finance.
+- Exploring machine learning, quantitative trading, and full-stack development.
+- Researching hybrid methods to improve boundary value problem solvers.
+  
+I have:
+- Deployed production-level ML models for the **OpenJ9** project with IBM and Red Hat.
+- Built robust backend systems using Python and C.
+  
+Open to collaborations. Feel free to reach out:  
+📧 bgisagew@cmu.edu | [LinkedIn](https://www.linkedin.com/in/belamigw/)
+
+Thanks for stopping by!
