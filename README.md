@@ -3,7 +3,7 @@
 I am Bel Ami (```/bellamy/```), a third-year Computer Science student at Carnegie Mellon. 
 
 I am:
-- Interested in natural sciences(especially maths), computer science, and finance.
+- Interested in natural sciences, maths, computer science, and finance.
 - Exploring machine learning, quantitative trading, and full-stack development.
 - Researching hybrid methods to improve boundary value problem solvers.
   
