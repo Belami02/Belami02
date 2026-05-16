@@ -9,7 +9,7 @@ I am:
   
 I have:
 - contributed to the deployment of production-level ML models for the **OpenJ9** project with IBM and Red Hat.
-- Built robust backend systems using Python, C and Java.
+- built robust backend systems using Python, C and Java.
   
 Open to collaborations. Feel free to reach out:  
 📧 bgisagew@cmu.edu | [LinkedIn](https://www.linkedin.com/in/belamigw/) | [Website](https://belamigw.com)
